@@ -125,14 +125,32 @@
 ### **One-Line Installation (Recommended)**
 ```bash
 pkg update && pkg upgrade -y
-
+```
+```
 Install required packages
+```
+```
 pkg install git php curl wget openssh -y
+```
+```
 pkg install python
+```
+```
 pkg install git
+```
+```
 git clone https://github.com/master-pd/ovai.git
+```
+```
 cd ovai
+```
+```
 chmod +x ovai
+```
+```
 ./ovai
+```
+```
 ./start
+```
 
