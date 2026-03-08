@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&width=435&lines=Assalamualaikum+Friends+Kemon+aso+shobai+%F0%9F%92%9D)](https://git.io/typing-svg)
+
 <div align="center">
 
 # 🚀 OVAI
@@ -80,6 +82,21 @@
 </div>
 
 ---
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" /> 
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/118968969/227749293-a65ed117-699b-4c41-90a2-7d41a899e6e1.gif" alt="MAR-PD Logo" />
+  <img src="assets/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="MAR-PD Logo" />
+</p>
+
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" /> 
+</p>
+
+
 
 ## Results 
 
