@@ -88,7 +88,7 @@
 ---
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" /> 
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="php" height="50" width="50" /> 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/118968969/227749293-a65ed117-699b-4c41-90a2-7d41a899e6e1.gif" alt="MAR-PD Logo" />
@@ -97,7 +97,7 @@
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" /> 
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="php" height="50" width="50" /> 
 </p>
 
 
