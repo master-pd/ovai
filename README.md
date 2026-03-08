@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&width=435&lines=Assalamualaikum+Friends+Kemon+aso+shobai+%F0%9F%92%9D)](https://git.io/typing-svg)
 
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/118968969/227749133-ca02419e-0d8f-4b05-af72-b498d9c8b2b3.gif" alt="MAR-PD Logo" />
 # 🚀 OVAI
 ### **The Ultimate Advanced PHP Penetration Testing Framework**
 ### *Telegram-Integrated Ultra-Powerful Security Tool*
-
+<img src="https://user-images.githubusercontent.com/118968969/227749133-ca02419e-0d8f-4b05-af72-b498d9c8b2b3.gif" alt="MAR-PD Logo" />
+  
 [![Version](https://img.shields.io/badge/Version-6.0-ff0000.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mar-pd/ovai-dengerus)
 [![Telegram](https://img.shields.io/badge/Telegram-Integration-0088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OVAI_DENGERUS_BOT)
 [![Author](https://img.shields.io/badge/Author-Master%20(MAR--PD)-00ff00.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mar-pd)
