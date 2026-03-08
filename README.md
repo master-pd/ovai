@@ -184,4 +184,7 @@ chmod +x ovai
 ```
 ./start
 ```
-
+## **যদি ইররোর আসে 🥴** 
+```
+bash start.sh
+```
