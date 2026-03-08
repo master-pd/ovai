@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&width=435&lines=Assalamualaikum+Friends+Kemon+aso+shobai+%F0%9F%92%9D)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="assets/Webtool [4304CCA].png" alt="MAR-PD Logo" />
+  <img src="https://i.ibb.co.com/GzHCGH4/1d9c1d1d-cc81-4c6b-b942-56845b9633da-0360-FD7.png" alt="MAR-PD Logo" />
 </p>
 
 <div align="center">
