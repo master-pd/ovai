@@ -5,7 +5,7 @@
 # 🚀 OVAI
 ### **The Ultimate Advanced PHP Penetration Testing Framework**
 ### *Telegram-Integrated Ultra-Powerful Security Tool*
-<img src="https://user-images.githubusercontent.com/118968969/227749133-ca02419e-0d8f-4b05-af72-b498d9c8b2b3.gif" alt="MAR-PD Logo" />
+
   
 [![Version](https://img.shields.io/badge/Version-6.0-ff0000.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mar-pd/ovai-dengerus)
 [![Telegram](https://img.shields.io/badge/Telegram-Integration-0088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OVAI_DENGERUS_BOT)
@@ -29,6 +29,7 @@
 </div>
 
 ---
+<img src="https://user-images.githubusercontent.com/118968969/227749133-ca02419e-0d8f-4b05-af72-b498d9c8b2b3.gif" alt="MAR-PD Logo" />
 
 ## 📋 **TABLE OF CONTENTS**
 - [✨ Key Features](#-key-features)
@@ -68,7 +69,9 @@
 
 ---
 
-## 📸 **SCREENSHOTS**
+<img src="https://user-images.githubusercontent.com/118968969/227749133-ca02419e-0d8f-4b05-af72-b498d9c8b2b3.gif" alt="MAR-PD Logo" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sacramento&size=40&pause=1000&color=F7009A&multiline=true&width=435&lines=Screenshot+)](https://git.io/typing-svg)
 
 <div align="center">
 
