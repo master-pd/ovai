@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&width=435&lines=Assalamualaikum+Friends+Kemon+aso+shobai+%F0%9F%92%9D)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://i.ibb.co.com/KjrCyZP4/Screenshot-2026-03-09-00-01-50-741-com-termux-edit.jpg" alt="MAR-PD Logo" />
+</p>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/118968969/227749133-ca02419e-0d8f-4b05-af72-b498d9c8b2b3.gif" alt="MAR-PD Logo" />
 # 🚀 OVAI
@@ -74,6 +78,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sacramento&size=40&pause=1000&color=F7009A&multiline=true&width=435&lines=Screenshot+)](https://git.io/typing-svg)
 
 <div align="center">
+  <img src="https://i.ibb.co.com/KjrCyZP4/Screenshot-2026-03-09-00-01-50-741-com-termux-edit.jpg" alt="MAR-PD Logo" />
+    <img src="https://i.ibb.co.com/mC2qFqjT/Screenshot-2026-03-08-23-59-40-488-org-telegram-messenger-edit.jpg" alt="MAR-PD Logo" />
+    
 
 | Landing Page | Permission Modal | Telegram Notification |
 |:------------:|:----------------:|:---------------------:|
