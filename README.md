@@ -151,6 +151,10 @@
 
 ---
 
+## 🎥 Tutorial Video
+
+[![How To Use](https://img.youtube.com/vi/bBJ4lJSTk5M/0.jpg)](https://youtu.be/bBJ4lJSTk5M)
+
 ## ⚡ **QUICK INSTALLATION**
 
 ### **One-Line Installation (Recommended)**
