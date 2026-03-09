@@ -186,7 +186,7 @@ chmod +x ovai
 ./ovai
 ```
 ```
-./start
+./start.sh
 ```
 ## **যদি ইররোর আসে 🥴** 
 ```
